@@ -1,0 +1,12 @@
+#Comandos utilizados no git:
+
+$ git clone https://github.com/vdlucas-queiroz/ser-347.git
+$ git status
+$ git add .
+$ status
+$ git config --global user.email "vinicius.dlucas@gmail.com"
+$ git config --global user.name "Vinícius Queiroz"
+$ git commit . 
+$ git commit -m "Testando o envio do arquivo teste_1.txt"
+$ git push
+$ git status
